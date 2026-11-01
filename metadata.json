@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python GUI",
+  "description": "Calculadora gráfica em Python com suporte a operações aritméticas, cálculo instantâneo, temas claro e escuro e código fonte exportável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
